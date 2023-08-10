@@ -1,0 +1,39 @@
+﻿<Window x:Class="gamanetApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:gamanetApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <ListBox x:Name="SortByBox"
+          ItemsSource="{Binding SortBys}"
+          HorizontalAlignment="Right"
+          Margin="10,0,10,10"
+          VerticalAlignment="Top"
+          Background="LightGray"
+          BorderBrush="Black"
+          FontSize="12">
+            <ListBoxItem Content="Name" />
+
+        </ListBox>
+        <ComboBox x:Name="FilterCountryBox"
+          ItemsSource="{Binding Countries}"
+          HorizontalAlignment="Right"
+          Margin="10,0,10,10"
+          VerticalAlignment="Top"
+          Background="LightGray"
+          BorderBrush="Black"
+          FontSize="12">
+        </ComboBox>
+
+
+        <ScrollViewer>
+            <ListBox ItemsSource="{Binding Persons}" />
+        </ScrollViewer>
+        <Button x:Name="Filter" Click="OnFilterClick" />
+        <Button x:Name="Sort" Click="OnSortClick" />
+    </Grid>
+</Window>

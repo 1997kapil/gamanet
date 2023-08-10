@@ -1,0 +1,32 @@
+C:\Users\Tushar\source\repos\gamanetApp\bin\Debug\gamanetApp.exe.config
+C:\Users\Tushar\source\repos\gamanetApp\bin\Debug\gamanetApp.exe
+C:\Users\Tushar\source\repos\gamanetApp\bin\Debug\gamanetApp.pdb
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\gamanetApp.csproj.AssemblyReference.cache
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\gamanetApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\MainWindow.g.cs
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\App.g.cs
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\gamanetApp_MarkupCompile.cache
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\gamanetApp_MarkupCompile.lref
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\MainWindow.baml
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\gamanetApp.g.resources
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\gamanetApp.Properties.Resources.resources
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\gamanetApp.csproj.GenerateResource.cache
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\gamanetApp.csproj.CoreCompileInputs.cache
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\gamanetApp.exe
+C:\Users\Tushar\source\repos\gamanetApp\obj\Debug\gamanetApp.pdb
+C:\Users\Tushar\source\repos\New folder\gamanetApp\bin\Debug\gamanetApp.exe.config
+C:\Users\Tushar\source\repos\New folder\gamanetApp\bin\Debug\gamanetApp.exe
+C:\Users\Tushar\source\repos\New folder\gamanetApp\bin\Debug\gamanetApp.pdb
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\gamanetApp.csproj.AssemblyReference.cache
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\gamanetApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\MainWindow.g.cs
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\App.g.cs
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\gamanetApp_MarkupCompile.cache
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\gamanetApp_MarkupCompile.lref
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\MainWindow.baml
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\gamanetApp.g.resources
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\gamanetApp.Properties.Resources.resources
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\gamanetApp.csproj.GenerateResource.cache
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\gamanetApp.csproj.CoreCompileInputs.cache
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\gamanetApp.exe
+C:\Users\Tushar\source\repos\New folder\gamanetApp\obj\Debug\gamanetApp.pdb
